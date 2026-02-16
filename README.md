@@ -2,16 +2,16 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
-
-* 🧐   Interested in full stack. Recent focus on Infra.
-* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
+📝 The Professional Content (Copy & Paste this):
+I build high-performance Web Solutions 💻 and secure Cloud Infrastructures ☁️ while mastering Algorithms 🧠.
+🧐 Third-year Computer Science student at Al-Zaytoonah University.
+🇸🇾 Proudly Syrian, blending academic excellence with real-world engineering.
+💻 4 years of Web Development experience & 1 year in Code Analysis.
+🧪 Specialist in Algorithms and Advanced Problem Solving.
+🛡️ Skilled in Cloud Computing & Kali Linux for security-focused development.
+🎓 Currently crushing Harvard’s CS50 to bridge the gap between low-level logic and modern Full-Stack apps.
+🌱 Learning Linux internals, Scalable Architecture, and Professional Software Engineering.
+🚀 Building a premium Multilingual Real Estate Platform for the Abu Dhabi Market.
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
