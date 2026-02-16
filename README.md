@@ -24,20 +24,16 @@ I build high-performance Web Solutions 💻 and secure Cloud Infrastructures ☁
   <summary>Some other achievements about me~e~e</summary>
   <br>
 
-* 💝   Be proud of Stanford. 🧸 Proud Stanford Cardinal. Die Luft der Freiheit weht. 
-* 💖   Be proud of CMU. 🐾 Proud Carnegie Mellon Tartan. My heart is in the work. 
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
+🎓 Proud Student at Al-Zaytoonah University of Jordan | Computer Science Department.
 
-<p align="center">
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/stanford.png" height="100" width="100" style="max-width: 100%;margin-right: 5px;"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CMU.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
-<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
-</p>
+🇸🇾 Syrian Excellence in Tech | Dedicated to pushing the boundaries of Software Engineering.
+
+🎖️ Professional Member: Active contributor to global tech communities and standards.
+
+💻 Software Analysis Specialist: Focused on Code Quality, Security, and Algorithmic Efficiency.
+
+🍎 Certified Development: Experienced in building and optimizing for the Apple Ecosystem.
+
 
 * 👑   Some GitHub statistical reports:
 
