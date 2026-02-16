@@ -4,13 +4,20 @@
 
 📝 The Professional Content (Copy & Paste this):
 I build high-performance Web Solutions 💻 and secure Cloud Infrastructures ☁️ while mastering Algorithms 🧠.
+
 🧐 Third-year Computer Science student at Al-Zaytoonah University.
 🇸🇾 Proudly Syrian, blending academic excellence with real-world engineering.
+
 💻 4 years of Web Development experience & 1 year in Code Analysis.
+
 🧪 Specialist in Algorithms and Advanced Problem Solving.
+
 🛡️ Skilled in Cloud Computing & Kali Linux for security-focused development.
+
 🎓 Currently crushing Harvard’s CS50 to bridge the gap between low-level logic and modern Full-Stack apps.
+
 🌱 Learning Linux internals, Scalable Architecture, and Professional Software Engineering.
+
 🚀 Building a premium Multilingual Real Estate Platform for the Abu Dhabi Market.
 
 <details>
