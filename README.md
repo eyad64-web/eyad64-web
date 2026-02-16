@@ -35,9 +35,9 @@ I build high-performance Web Solutions 💻 and secure Cloud Infrastructures ☁
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-  <a href="YOUR_INSTAGRAM_URL_HERE"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.icons8.com/material-outlined/30/000000/new-post.png"/></a>
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>EYAD_ALDEEK</a>
+  <a href="YOUR_INSTAGRAM_URL_HERE"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/>https://www.instagram.com/eyad_al_deek/</a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.icons8.com/material-outlined/30/000000/new-post.png"/>aldeekeyad64@gmail.com</a>
 </p>
 
 
