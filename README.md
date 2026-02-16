@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-📝 The Professional Content (Copy & Paste this):
+📝 The Professional Content 
 I build high-performance Web Solutions 💻 and secure Cloud Infrastructures ☁️ while mastering Algorithms 🧠.
 
 🧐 Third-year Computer Science student at Al-Zaytoonah University.
