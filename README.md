@@ -40,6 +40,4 @@ I build high-performance Web Solutions 💻 and secure Cloud Infrastructures ☁
   <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.icons8.com/material-outlined/30/000000/new-post.png"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
